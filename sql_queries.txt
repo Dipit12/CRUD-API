@@ -1,0 +1,5 @@
+1. To view the whole table - SELECT * from table_name;
+2. To change the column name - SELECT id AS products_id FROM products;
+3. To search a particular id column - SELECT * FROM products WHERE id = 3;
+4. to search products where on_sale = false - SELECT * FROM products WHERE is_sale = false
+5. To add a value to the table - INSERT INTO products (Name,Price) VALUES ('tortilla',5)

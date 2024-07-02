@@ -1,0 +1,8 @@
+Intro to Databases:
+1.Databases are a collection of organized data that can be easily accessed and managed
+2. We dont work or interact with databases directly
+3. Instead we use a software called DBMS(database management system)
+4.Types of databases: Relational(eg: MySQL,PostgresSQL,Oracle) and NoSQL(eg: MongoDB,DynamoDB)
+In a NoSQL there is no use of tables, instead there are storage solutions
+
+SQL - structured query language - language used to communicate with DBMS
